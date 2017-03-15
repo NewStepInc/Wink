@@ -1,2 +1,2 @@
 # Wink
-Android animation game for Android TV
+Android ping-pong game for Android TV
